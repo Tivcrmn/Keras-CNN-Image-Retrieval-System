@@ -1,0 +1,14 @@
+.DS_Store
+client/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+client/dist/
+server/database/
+server/media/
+server/h5File/
+server/cnn_vgg16/__pycache__/
+server/cnn_vgg16/migrations/__pycache__/
+server/cnn_vgg16/utils/__pycache__/
+server/server/__pycache__/
