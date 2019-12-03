@@ -46,7 +46,7 @@ And I recommend use conda to manage your python environments.
   - run model/save.py based on 2 index file to create the database on mongodb
   - create a new folder server/h5File and move other 4 model files to server/h5File
 
-  ![](./assets/H5.jpg)
+  ![](./assets/file.jpg)
 
 ### How to use?
 
